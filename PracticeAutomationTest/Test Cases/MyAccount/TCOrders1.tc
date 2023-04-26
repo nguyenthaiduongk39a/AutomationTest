@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user can view their orders on clicking orders link</description>
+   <name>TCOrders1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>029c4fb8-cdb7-41e6-92bb-6ff9427f6289</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2544af04-7d91-4a0b-8c56-fd86c2ec6f9d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5ddc81f-3b4b-42e4-9fd7-c2e9a54dd30b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2544af04-7d91-4a0b-8c56-fd86c2ec6f9d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a5ddc81f-3b4b-42e4-9fd7-c2e9a54dd30b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

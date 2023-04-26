@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "FD50F8ECAE6F8AF2FD02D8574E300BC3",
+  "keywordClasses": [
+    {
+      "name": "product.buyproduct",
+      "keywordMethods": [
+        {
+          "name": "viewbasket",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    },
+    {
+      "name": "product.Total1",
+      "keywordMethods": [
+        {
+          "name": "comparetotal",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

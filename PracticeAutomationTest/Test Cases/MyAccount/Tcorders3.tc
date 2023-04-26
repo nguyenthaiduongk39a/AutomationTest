@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user can view Order Number Ordered date and Status of the order on clicking view button</description>
+   <name>Tcorders3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57cb683d-f2bd-48d3-b982-a46b0e6308ad</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ff93f4ca-456e-4790-b043-93c1f780ff1d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c290ab45-4f56-435b-a0bc-486d679f6348</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ff93f4ca-456e-4790-b043-93c1f780ff1d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c290ab45-4f56-435b-a0bc-486d679f6348</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
